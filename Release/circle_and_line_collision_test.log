@@ -1,0 +1,17 @@
+﻿2014/04/24 15:39:01 にビルドを開始しました。
+ノード 2 上のプロジェクト "C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\circle_and_line_collision_test.vcxproj" (build ターゲット)。
+InitializeBuildStatus:
+  "Release\circle_and_line_collision_test.unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  すべての出力が最新のものです。
+Link:
+  すべての出力が最新のものです。
+  circle_and_line_collision_test.vcxproj -> C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\\circle_and_line_collision_test.exe
+FinalizeBuildStatus:
+  ファイル "Release\circle_and_line_collision_test.unsuccessfulbuild" を削除しています。
+  "Release\circle_and_line_collision_test.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\circle_and_line_collision_test.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.07

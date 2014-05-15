@@ -1,0 +1,30 @@
+﻿2014/04/24 15:39:23 にビルドを開始しました。
+ノード 2 上のプロジェクト "C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\circle_and_line_collision_test.vcxproj" (rebuild ターゲット)。
+_PrepareForClean:
+  ファイル "Debug\circle_and_line_collision_test.lastbuildstate" を削除しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "Debug\circle_and_line_collision_test.unsuccessfulbuild" を作成しています。
+ClCompile:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+  main.cpp
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\circle_and_line_collision_test.exe.embed.manifest.res" Debug\circle_and_line_collision_test_manifest.rc 
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\circle_and_line_collision_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.lib" /MACHINE:X86 Debug\circle_and_line_collision_test.exe.embed.manifest.res
+  Debug\main.obj
+Manifest:
+  ファイル "Debug\circle_and_line_collision_test.exe.embed.manifest" を削除しています。
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\circle_and_line_collision_test.exe.embed.manifest" /manifest Debug\circle_and_line_collision_test.exe.intermediate.manifest
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\circle_and_line_collision_test.exe.embed.manifest.res" Debug\circle_and_line_collision_test_manifest.rc 
+LinkEmbedManifest:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\circle_and_line_collision_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.lib" /MACHINE:X86 Debug\circle_and_line_collision_test.exe.embed.manifest.res
+  Debug\main.obj
+  circle_and_line_collision_test.vcxproj -> C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\Debug\circle_and_line_collision_test.exe
+FinalizeBuildStatus:
+  ファイル "Debug\circle_and_line_collision_test.unsuccessfulbuild" を削除しています。
+  "Debug\circle_and_line_collision_test.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\元和\Documents\Visual Studio 2010\Projects\circle_and_line_collision_test\circle_and_line_collision_test.vcxproj" (rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.73
